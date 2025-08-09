@@ -29,6 +29,10 @@
 
 موجود في الملف: `security_system.ino`
 
+
+رابط المشروع على Tinkercad:
+https://www.tinkercad.com/things/iwpSBZkOaMd/editel?returnTo=%2Fdashboard&sharecode=8dwiH4tSARVeoN6r7SLGBpE2t2LpiJxIPRgEVCKY1aA
+
 ---
 
 ## صورة للمشروع
